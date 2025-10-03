@@ -1,0 +1,7 @@
+python-dotenv
+pipwin
+pyaudio
+SpeechRecognition
+elevenlabs
+gTTS
+gradio
